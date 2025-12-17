@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Aswad 👋
 
-<!--
-**aswadshams/aswadshams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Database Engineer with 12+ years of experience in enterprise systems.
 
-Here are some ideas to get you started:
+### 💼 Expertise
+- Oracle: RAC, ASM, Data Guard, RMAN
+- PostgreSQL: HA, Backup, Performance Tuning
+- Linux & Automation
+- Cloud & Database Reliability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Learning
+- PostgreSQL internals
+- Cloud-native database architectures
+- Automation for DB operations
+
+### 📌 Key Repositories
+- oracle-dba-scripts
+- postgresql-dba-toolkit
+- database-migration-notes
+
+### 📫 Connect with me
+- [LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-aswad-ahmed-shams-171185a2/)
